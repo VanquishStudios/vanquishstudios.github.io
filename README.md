@@ -1,4 +1,4 @@
-# 🖥️ Website
+# 🖥️  Vanquish Studios Website
 
 This is the [INDEV] website for Vanquish Studios
 
