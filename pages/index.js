@@ -20,7 +20,7 @@ const VanquishStudios = (props) => {
           />
           <meta
             property="og:image"
-            content="../public/logos/logo-8px-curve.png"
+            content="https://raw.githubusercontent.com/VanquishStudios/vanquishstudios.github.io/main/public/logos/logo-8px-curve.png"
           />
         </Head>
         <section className="vanquish-studios-hero">
@@ -31,7 +31,7 @@ const VanquishStudios = (props) => {
             >
               <img
                 alt="pastedImage"
-                src="../public/no-image.svg"
+                src="https://raw.githubusercontent.com/VanquishStudios/vanquishstudios.github.io/9ef47208ced1a34ee2d533b83933d564932d9112/public/no-image.svg"
                 className="vanquish-studios-logo"
               />
               <div className="vanquish-studios-links">
