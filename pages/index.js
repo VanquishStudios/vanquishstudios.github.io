@@ -20,7 +20,7 @@ const VanquishStudios = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/fcfef315-3a43-4c65-896c-420586c2dc78/bc65f05a-dd78-4da8-a8ae-ec34b3eef075?org_if_sml=1"
+            content="../public/logos/logo-8px-curve.png"
           />
         </Head>
         <section className="vanquish-studios-hero">
@@ -31,7 +31,7 @@ const VanquishStudios = (props) => {
             >
               <img
                 alt="pastedImage"
-                src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+                src="../public/no-image.svg"
                 className="vanquish-studios-logo"
               />
               <div className="vanquish-studios-links">
